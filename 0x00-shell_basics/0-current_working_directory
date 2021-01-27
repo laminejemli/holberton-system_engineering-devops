@@ -1,3 +1,4 @@
 #!/bin/bash
-readlink -m 
+pwd 
+ 
  
